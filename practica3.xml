@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carrefour>
+  <informacion>
+    <dirección>Avenida de las Suertes</dirección>
+    <coordenadas>40°22'15.6"N 3°36'3.6"E"</coordenadas>
+  </informacion>
+  <secciones>
+    <sección>fruteria</sección>
+    <productos array="true">
+      <nombre>plátanos</nombre>
+      <peridodoVigencia>2 semanas</peridodoVigencia>
+      <numerosUnidades>5</numerosUnidades>
+      <unidadMedida>kg</unidadMedida>
+      <precioVenta>1.35</precioVenta>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">true</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>fruteria</sección>
+    <productos array="true">
+      <nombre>tomates</nombre>
+      <peridodoVigencia>1 semana</peridodoVigencia>
+      <numerosUnidades>4</numerosUnidades>
+      <unidadMedida>kg</unidadMedida>
+      <precioVenta>2.15</precioVenta>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>fruteria</sección>
+    <productos array="true">
+      <nombre>peras</nombre>
+      <peridodoVigencia>12 días</peridodoVigencia>
+      <numerosUnidades>6</numerosUnidades>
+      <unidadMedida>kg</unidadMedida>
+      <precioVenta>1.87</precioVenta>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">true</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>droguería</sección>
+    <productos array="true">
+      <nombre>champú</nombre>
+      <peridodoVigencia>12 meses</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>mL</unidadMedida>
+      <precioVenta>3.14</precioVenta>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">true</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>droguería</sección>
+    <productos array="true">
+      <nombre>compresas</nombre>
+      <peridodoVigencia>sin caducidad</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>caja</unidadMedida>
+      <precioVenta>2.78</precioVenta>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>droguería</sección>
+    <productos array="true">
+      <nombre>desodorante</nombre>
+      <peridodoVigencia>18 meses</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>mL</unidadMedida>
+      <precioVenta>1.90</precioVenta>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">false</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>desayuno</sección>
+    <productos array="true">
+      <nombre>galletas</nombre>
+      <peridodoVigencia>3 meses</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>caja</unidadMedida>
+      <precioVenta>2.23</precioVenta>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">true</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>desayuno</sección>
+    <productos array="true">
+      <nombre>pan de molde</nombre>
+      <peridodoVigencia>25 días</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>gramos</unidadMedida>
+      <precioVenta>1.64</precioVenta>
+      <oferta boolean="true">false</oferta>
+      <adquirido boolean="true">true</adquirido>
+    </productos>
+  </secciones>
+  <secciones>
+    <sección>desayuno</sección>
+    <productos array="true">
+      <nombre>mermelada</nombre>
+      <peridodoVigencia>6 meses</peridodoVigencia>
+      <numerosUnidades>1</numerosUnidades>
+      <unidadMedida>gramos</unidadMedida>
+      <precioVenta>3.16</precioVenta>
+      <oferta boolean="true">true</oferta>
+      <adquirido boolean="true">false</adquirido>
+    </productos>
+  </secciones>
+</Carrefour>

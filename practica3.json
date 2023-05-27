@@ -1,0 +1,407 @@
+{
+    "Carrefour": {
+        "informacion": {
+            "dirección": "Avenida de las Suertes",
+            "coordenadas": "40°22'15.6\"N 3°36'3.6\"E\""
+        },
+        "secciones":[
+            {
+                "sección": "fruteria",
+                "productos": [
+                    {
+                        "nombre": "plátanos",
+                        "peridodoVigencia": "2 semanas",
+                        "numerosUnidades": "5", 
+                        "unidadMedida": "kg", 
+                        "precioVenta": "1.35",
+                        "oferta": false, 
+                        "adquirido": true 
+                    }
+                ]
+            },
+            {
+                "sección": "fruteria",
+                "productos": [
+                    {
+                        "nombre": "tomates",
+                        "peridodoVigencia": "1 semana",
+                        "numerosUnidades": "4", 
+                        "unidadMedida": "kg", 
+                        "precioVenta": "2.15",
+                        "oferta": true, 
+                        "adquirido": false 
+                    }
+                ]
+            },
+            {
+                "sección": "fruteria",
+                "productos": [
+                    {
+                        "nombre": "peras",
+                        "peridodoVigencia": "12 días",
+                        "numerosUnidades": "6", 
+                        "unidadMedida": "kg", 
+                        "precioVenta": "1.87",
+                        "oferta": true, 
+                        "adquirido": true 
+                    }
+                ]
+            },
+            {
+                "sección": "droguería",
+                "productos": [
+                    {
+                        "nombre": "champú",
+                        "peridodoVigencia": "12 meses",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "mL", 
+                        "precioVenta": "3.14",
+                        "oferta": false, 
+                        "adquirido": true 
+                    }
+                ]
+            },
+            {
+                "sección": "droguería",
+                "productos": [
+                    {
+                        "nombre": "compresas",
+                        "peridodoVigencia": "sin caducidad",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "caja", 
+                        "precioVenta": "2.78",
+                        "oferta": true, 
+                        "adquirido": false 
+                    }
+                ]
+            },
+            {
+                "sección": "droguería",
+                "productos": [
+                    {
+                        "nombre": "desodorante",
+                        "peridodoVigencia": "18 meses",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "mL", 
+                        "precioVenta": "1.90",
+                        "oferta": false, 
+                        "adquirido": false 
+                    }
+                ]
+            },
+            {
+                "sección": "desayuno",
+                "productos": [
+                    {
+                        "nombre": "galletas",
+                        "peridodoVigencia": "3 meses",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "caja", 
+                        "precioVenta": "2.23",
+                        "oferta": true, 
+                        "adquirido": true 
+                    }
+                ]
+            },
+            {
+                "sección": "desayuno",
+                "productos": [
+                    {
+                        "nombre": "pan de molde",
+                        "peridodoVigencia": "25 días",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "gramos", 
+                        "precioVenta": "1.64",
+                        "oferta": false, 
+                        "adquirido": true 
+                    }
+                ]
+            },
+            {
+                "sección": "desayuno",
+                "productos": [
+                    {
+                        "nombre": "mermelada",
+                        "peridodoVigencia": "6 meses",
+                        "numerosUnidades": "1", 
+                        "unidadMedida": "gramos", 
+                        "precioVenta": "3.16",
+                        "oferta": true, 
+                        "adquirido": false 
+                    }
+                ]
+            }
+    
+        ] 
+    },
+    "Día":  {
+        "informacion": {
+            "dirección": "Calle de la Gavia Seca,",
+            "coordenadas": "40°22'51.7\"N 3°37'9.0\"E\""
+        },
+        "secciones": [
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "plátanos",
+                    "peridodoVigencia": "2 semanas",
+                    "numerosUnidades": "6", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "1.55",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "tomates",
+                    "peridodoVigencia": "1 semana",
+                    "numerosUnidades": "5", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "2.03",
+                    "oferta": true, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "peras",
+                    "peridodoVigencia": "12 días",
+                    "numerosUnidades": "6", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "1.97",
+                    "oferta": false, 
+                    "adquirido": false 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "champú",
+                    "peridodoVigencia": "12 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "mL", 
+                    "precioVenta": "3.67",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "compresas",
+                    "peridodoVigencia": "sin caducidad",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "caja", 
+                    "precioVenta": "2.58",
+                    "oferta": true, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "desodorante",
+                    "peridodoVigencia": "18 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "mL", 
+                    "precioVenta": "1.99",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "galletas",
+                    "peridodoVigencia": "3 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "caja", 
+                    "precioVenta": "2.15",
+                    "oferta": true, 
+                    "adquirido": false 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "pan de molde",
+                    "peridodoVigencia": "25 días",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "gramos", 
+                    "precioVenta": "1.84",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "mermelada",
+                    "peridodoVigencia": "6 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "gramos", 
+                    "precioVenta": "3.27",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        }
+
+    ]
+    },
+    "Supeco":   {
+        "informacion": {
+            "dirección": "Calle de Bruno Abúndez, 54,",
+            "coordenadas": "40°23'10.7\"N 3°37'37.3\"E\""
+        },
+        "secciones": [
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "plátanos",
+                    "peridodoVigencia": "2 semanas",
+                    "numerosUnidades": "4", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "1.15",
+                    "oferta": true, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "tomates",
+                    "peridodoVigencia": "1 semana",
+                    "numerosUnidades": "6", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "2.25",
+                    "oferta": true, 
+                    "adquirido": false 
+                }
+            ]
+        },
+        {
+            "sección": "fruteria",
+            "productos": [
+                {
+                    "nombre": "peras",
+                    "peridodoVigencia": "12 días",
+                    "numerosUnidades": "4", 
+                    "unidadMedida": "kg", 
+                    "precioVenta": "1.57",
+                    "oferta": true, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "champú",
+                    "peridodoVigencia": "12 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "mL", 
+                    "precioVenta": "2.44",
+                    "oferta": true, 
+                    "adquirido": false 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "compresas",
+                    "peridodoVigencia": "sin caducidad",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "caja", 
+                    "precioVenta": "2.88",
+                    "oferta": true, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "droguería",
+            "productos": [
+                {
+                    "nombre": "desodorante",
+                    "peridodoVigencia": "18 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "mL", 
+                    "precioVenta": "2.14",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "galletas",
+                    "peridodoVigencia": "3 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "caja", 
+                    "precioVenta": "3.14",
+                    "oferta": false, 
+                    "adquirido": false 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "pan de molde",
+                    "peridodoVigencia": "25 días",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "gramos", 
+                    "precioVenta": "2.04",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        },
+        {
+            "sección": "desayuno",
+            "productos": [
+                {
+                    "nombre": "mermelada",
+                    "peridodoVigencia": "6 meses",
+                    "numerosUnidades": "1", 
+                    "unidadMedida": "gramos", 
+                    "precioVenta": "3.76",
+                    "oferta": false, 
+                    "adquirido": true 
+                }
+            ]
+        }
+
+    ]
+}
+}
